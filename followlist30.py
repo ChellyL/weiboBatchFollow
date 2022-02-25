@@ -11,7 +11,7 @@ def getgroup():
     end = 30
 
     group30 = []
-    for i in range(8):
+    for i in range(total):
         group = list[start:end]
         group30.append(group)
         # print(group)
